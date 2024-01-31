@@ -1,0 +1,18 @@
+{
+  "name": "ddschat",
+  "version": "1.0.0",
+  "description": "Example chat application using RTI Connext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AJMHS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.8",
+    "nodemon": "^3.0.3",
+    "rticonnextdds-connector": "^1.2.2",
+    "socket.io": "^4.7.4"
+  }
+}
